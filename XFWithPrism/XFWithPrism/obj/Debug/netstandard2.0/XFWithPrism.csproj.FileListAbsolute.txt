@@ -1,0 +1,12 @@
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/obj/Debug/netstandard2.0/XFWithPrism.csprojResolveAssemblyReference.cache
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/obj/Debug/netstandard2.0/XFWithPrism.csproj.CoreCompileInputs.cache
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/obj/Debug/netstandard2.0/XFWithPrism.App.xaml.g.cs
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/obj/Debug/netstandard2.0/XFWithPrism.Views.AnotherPage.xaml.g.cs
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/obj/Debug/netstandard2.0/XFWithPrism.Views.MainPage.xaml.g.cs
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/bin/Debug/netstandard2.0/XFWithPrism.deps.json
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/bin/Debug/netstandard2.0/XFWithPrism.dll
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/bin/Debug/netstandard2.0/XFWithPrism.pdb
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/obj/Debug/netstandard2.0/XFWithPrism.AssemblyInfoInputs.cache
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/obj/Debug/netstandard2.0/XFWithPrism.AssemblyInfo.cs
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/obj/Debug/netstandard2.0/XFWithPrism.dll
+/Users/Sam/Projects/XFWithPrism/XFWithPrism/XFWithPrism/obj/Debug/netstandard2.0/XFWithPrism.pdb
